@@ -1,0 +1,8 @@
+{
+  "name": "AI- OmniTest",
+  "description": "Hệ thống ôn tập thông minh, luyện tập đa dạng và giải trí học đường dành cho học sinh Việt Nam. Tác giả: Nguyễn Thị Huệ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
